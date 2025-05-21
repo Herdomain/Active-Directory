@@ -1,7 +1,5 @@
 <h1>Project 1- Ttitle</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Project Description
 <br />
