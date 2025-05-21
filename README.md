@@ -14,7 +14,17 @@ Project Description
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+
+### Skills Learned
+[Bullet Points - Remove this afterwards]
+
+- Advanced understanding of SIEM concepts and practical application.
+- Proficiency in analyzing and interpreting network logs.
+- Ability to generate and recognize attack signatures and patterns.
+- Enhanced knowledge of network protocols and security vulnerabilities.
+- Development of critical thinking and problem-solving skills in cybersecurity.
+
+<h2>Program walk-through/Steps:</h2>
 
 <p align="center">
 **Screenshots**
